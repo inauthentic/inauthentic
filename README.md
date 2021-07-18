@@ -5,6 +5,11 @@
 2. PersonalsOnly | Networking and Cloud Computing.
 3. [Name] Tech | Networking with full automation.
 
+### 💻 What I work with
+1. GoLang
+2. JavaScript
+3. Python
+
 <!---
 inauthentic/inauthentic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
