@@ -1,6 +1,9 @@
 ### Howdy! 🤠
 
-
+### 😄 Current Projects
+1. NauticalAIO | Automation using GoLang and AI/ML.
+2. PersonalsOnly | Networking and Cloud Computing.
+3. [Name] Tech | Networking with full automation.
 
 <!---
 inauthentic/inauthentic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
