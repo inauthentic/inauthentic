@@ -1,7 +1,7 @@
 ### Howdy! 🤠
 
 ### 😄 Current Projects
-1. NauticalAIO | Automation using GoLang and AI/ML.
+1. NauticalAIO | Automation using GoLang.
 2. PersonalsOnly | Networking and Cloud Computing.
 3. [Name] Tech | Networking with full automation.
 
