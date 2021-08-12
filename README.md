@@ -3,7 +3,7 @@
 ### 😄 Current Projects
 1. NauticalAIO | Automation using GoLang.
 2. PersonalsOnly | Networking and Cloud Computing.
-3. [Name] Tech | Networking with full automation.
+3. [Name Tech | Networking with full automation.
 
 ### 💻 Languages
 <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/> <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
