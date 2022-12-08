@@ -1,4 +1,4 @@
-### Howdy! 🤠
+### Hello.
 
 Most repos are private. 
 <!---
